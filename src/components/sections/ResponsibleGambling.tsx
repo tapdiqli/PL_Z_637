@@ -46,7 +46,7 @@ export function ResponsibleGambling() {
                   JogoResponsavel.pt
                 </Link>{" "}
                 ou contacte o{" "}
-                <Link href="https://www.sicad.pt/" target="_blank" rel="noopener noreferrer" className="text-portal-purple-dark underline hover:text-portal-purple transition-colors">
+                <Link href="https://www.icad.pt/" target="_blank" rel="noopener noreferrer" className="text-portal-purple-dark underline hover:text-portal-purple transition-colors">
                   SICAD
                 </Link>
                 . Jogue com responsabilidade. Proibido a menores de 18 anos.

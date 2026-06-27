@@ -84,7 +84,7 @@ export function SecurityContent() {
                   JogoResponsavel.pt
                 </Link>{" "}
                 e{" "}
-                <Link href="https://www.sicad.pt/" target="_blank" rel="noopener noreferrer" className="text-portal-purple hover:underline">
+                <Link href="https://www.icad.pt/" target="_blank" rel="noopener noreferrer" className="text-portal-purple hover:underline">
                   SICAD
                 </Link>.
               </p>

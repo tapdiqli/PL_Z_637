@@ -10,7 +10,7 @@ const helpResources = [
   },
   {
     name: "SICAD",
-    href: "https://www.sicad.pt/",
+    href: "https://www.icad.pt/",
     desc: "Serviço de Intervenção nos Comportamentos Aditivos.",
   },
   {
